@@ -1,8 +1,5 @@
-use it wisely, and use it to check your own website endpoint and if not, have permission from the website owner 
-
-
-
-
+> like a knife — useful in the kitchen, dangerous in the streets.  
+> its impact depends entirely on who holds it.
 
 regards : rick 
 
